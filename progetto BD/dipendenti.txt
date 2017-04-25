@@ -1,0 +1,5 @@
+Elvira,Sicignano,via Sacra 27 Pompei(NA),Scafati,1970-12-16,425863,addettoSportello
+Anna Maria,Caputo,via Giovanni XXIII 6 Scafati(SA),Nola,1968-03-27,426854,postino
+Giuseppe,Cavallario,via Roma 29 Napoli(NA),Pisa,1967-09-06,423668,postino
+Vincenzo,Novi,via Ugo Foscolo Trecase(NA),Berlino,1972-08-30,429875,postino
+Federico,Abate,via Martiri d'UngheriaScafati(SA),Napoli,1983-01-26,426895,addettoSportello

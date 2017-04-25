@@ -1,0 +1,11 @@
+2016-12-10,2016-12-13,pacchi,429875,via della Resistenza,Antonio Esposito
+2016-11-10,2016-12-08,pacchi,429875,via Dante,Antonio Di Maio
+2016-12-08,,raccomandate,429875,via Roma,Raffaele Esposito
+2016-12-07,2016-12-14,pacchi,429875,via passanti,Angelo Caputo
+2016-12-11,2016-12-12,lettere,429875,corso Vittorio Emanule,Emma De Santis
+2016-12-12,2016-12-11,lettere,423668,via della Resistenza,Giorgio Festa
+2016-11-09,2016-12-11,lettere,423668,via della Resistenza,Anna Dell'Angelo
+2016-12-12,2016-12-13,pacchi,423668,via della Resistenza,Antonio Maria Valle
+2016-12-07,2016-12-12,raccomandate,423668,via della Resistenza,Vincenzo De Clemente
+2016-12-05,2016-12-11,lettere,426854,via Catalano,Vincenzo De Palma
+2016-12-03,NULL,lettere,426854,via Sacra,Giuseppe Di Lallo
